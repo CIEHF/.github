@@ -12,7 +12,8 @@ Example content:
 ### Databases
 <img src="https://github.com/CIEHF/.github/blob/main/profile/databaseLogo.png" alt="" width="75" align="right" />
 
-- <a href="https://github.com/AtlasOfLivingAustralia"><em>Atlas of Living Australia</em></a>: Free and open source IT infrastructure for the aggregation and delivery of biodiversity data (links to Github organisation page)
+- <a href="https://github.com/AtlasOfLivingAustralia"><em>Atlas of Living Australia</em></a> (ALA): Free and open source IT infrastructure for the aggregation and delivery of biodiversity data (links to Github organisation page)
+- <a href="https://github.com/ternaustralia"><em>Terrestrial Ecosystem Research Network</em></a> (TERN): TERN is Australia's ecosystem observatory, providing world-class research infrastructure to monitor and understand changes to our environment and climate and enable predictions of future risks (links to Github organisation page)
 - <a href="https://github.com/CIEHF/FosSahul"><em>FosSahul</em></a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
 - <a href="https://github.com/CIEHF/IPPD"><em>IPPD</em></a>: An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region
 - <a href="https://github.com/CIEHF/neotoma2"><em>Neotoma</em></a>: This R package pulls data from the <a href="http://neotomadb.org/">Neotoma Palaeoecology Database</a>, an online hub for data, research, education, and discussion about palaeoenvironments
