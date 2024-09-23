@@ -1,5 +1,10 @@
 ## <a href="http://www.arc.gov.au">Australian Research Council</a> <a href="http://ciehf.au">Centre of Excellence for Indigenous and Environmental Histories and Futures</a> (CIEHF)
 
+Healthy Land and Sea Country, centred in Aboriginal and Torres Strait Islander understandings and approaches and informed by cutting-edge approaches to cultural, environmental, and historical research.
+
+The Centre will set new standards for research and management on Country across Australia. It will be reciprocal, not extractive, and will have the wellbeing of Country and community at its heart. It will recruit, empower, and inspire the next generation of Indigenous researchers as well as training non-Indigenous researchers to collaborate in culturally appropriate ways.
+Driven by respectful, authentic co-design, and drawing from diverse cultural, environmental, and historical records, the Centre will work to enhance Land and Sea Country management, reframed by Indigenous knowledges and science.
+
 This is the shared Github code and data repository for members of CIEHF. Curated by @<a href="https://github.com/FredSaltre">fredsaltre</a> and @<a href="https://github.com/cjabradshaw">cjabradshaw</a> (please <a href="https://github.com/FredSaltre">contact</a> for membership).
 
 Example content:
