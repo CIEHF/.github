@@ -37,7 +37,8 @@ Example content:
 ### Software/utilities
 <img src="https://github.com/CIEHF/.github/blob/main/profile/softwareLogo.png" alt="" width="75" align="right" />
 
-- <a href="https://github.com/CABAH/QGIS">QGIS</a>: A free, open source, cross platform (lin/win/mac) geographical information system (GIS)
+- <a href="https://github.com/CIEHF/QGIS">ausplotsR</a>: R package for live extraction, preparation, visualisation and analysis of @<a href="https://github.com/ternaustralia">TERN</a> Ecosystem Surveillance monitoring data (AusPlots data)
+- <a href="https://github.com/CIEHF/QGIS">QGIS</a>: A free, open source, cross platform (lin/win/mac) geographical information system (GIS)
 
 <br>
 <br>
