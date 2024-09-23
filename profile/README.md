@@ -8,12 +8,11 @@ Example content:
 <img src="https://github.com/CIEHF/.github/blob/main/profile/databaseLogo.png" alt="" width="75" align="right" />
 
 - <a href="https://github.com/AtlasOfLivingAustralia"><em>Atlas of Living Australia</em></a>: Free and open source IT infrastructure for the aggregation and delivery of biodiversity data (links to Github organisation page)
-- <a href="https://github.com/CABAH/FosSahul"><em>FosSahul</em></a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates (a CABAH product)
-- <a href="https://github.com/CABAH/IPPD"><em>IPPD</em></a>: An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region (a CABAH product)
-- <a href="https://github.com/MorphoSource"><em>MorphoSource</em></a>: Find, view, and download 3D data representing the world's natural history, cultural heritage, and scientific collections (links to Github organisation page)
-- <a href="https://github.com/CABAH/neotoma2"><em>Neotoma</em></a>: This R package pulls data from the <a href="http://neotomadb.org/">Neotoma Palaeoecology Database</a>, an online hub for data, research, education, and discussion about palaeoenvironments
-- <a href="https://github.com/CABAH/OCTOPUS"><em>OCTOPUS</em></a>: Open Cosmogenic Isotope and Luminescence Database (a CABAH product)
-- <a href="https://github.com/CABAH/SahulArch"><em>SahulArch</em></a>: Database of published radiocarbon ages for archaeological records from Sahul (a CABAH product)
+- <a href="https://github.com/CIEHF/FosSahul"><em>FosSahul</em></a>: A comprehensive database of quality-rated fossil ages for Sahul’s Quaternary vertebrates
+- <a href="https://github.com/CIEHF/IPPD"><em>IPPD</em></a>: An evolving, open-access database of the largest collection of palaecological information in the Indo-Pacific region
+- <a href="https://github.com/CIEHF/neotoma2"><em>Neotoma</em></a>: This R package pulls data from the <a href="http://neotomadb.org/">Neotoma Palaeoecology Database</a>, an online hub for data, research, education, and discussion about palaeoenvironments
+- <a href="https://github.com/CIEHF/OCTOPUS"><em>OCTOPUS</em></a>: Open Cosmogenic Isotope and Luminescence Database
+- <a href="https://github.com/CIEHF/SahulArch"><em>SahulArch</em></a>: Database of published radiocarbon ages for archaeological records from Sahul
 - <a href="https://www.worldclim.org/data/index.html"><em>WorldClim</em></a>: a database of high spatial resolution global weather and climate data (see <a href="https://gis.stackexchange.com/questions/227585/using-r-to-extract-data-from-worldclim">here</a> for instructions on how to access the data directly from R)
 
 ### Scripts
