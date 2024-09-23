@@ -18,7 +18,7 @@ Example content:
 ### Scripts
 <img src="https://github.com/CIEHF/.github/blob/main/profile/scriptsLogo.png" alt="" width="75" align="right" />
 
-- <a href="https://github.com/CIEHF/AusIndigN">holoflow</a>: Estimating the size of the pre-colonial Indigenous population in Australia and the aftermath of European invasion
+- <a href="https://github.com/CIEHF/AusIndigN">AusIndigN</a>: Estimating the size of the pre-colonial Indigenous population in Australia and the aftermath of European invasion
 
 ### Learning resources
 <img src="https://github.com/CIEHF/.github/blob/main/profile/learningLogo.png" alt="" width="75" align="right" />
