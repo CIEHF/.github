@@ -5,7 +5,7 @@ Funded by the <a href="http://www.arc.gov.au">Australian Research Council</a>, C
 The Centre’s research program brings together cutting-edge techniques from Indigenous knowledge, Indigenous science, archaeology, history, ecology, palaeoecology, palaeoclimatology, mathematics, high-performance computing, remote sensing, and genomics. This pursuit is underpinned by an unwavering commitment to respectful, authentic co-designed research with Indigenous partners.
 Our outcomes will support healthy Land and Sea Country management planning now and into the future, centred in Aboriginal- and Torres Strait Islander-led approaches.
 
-This is the shared Github code and data repository for members of CIEHF. Curated by @<a href="https://github.com/FredSaltre">fredsaltre</a> and @<a href="https://github.com/cjabradshaw">cjabradshaw</a> (please <a href="https://github.com/FredSaltre">contact</a> for membership).
+This is the shared Github code and data repository for members of CIEHF. Curated by Modelling Node Leader, @<a href="https://github.com/FredSaltre">fredsaltre</a> and <a href="http://flinders.edu.au">Flinders University</a> Node Leader, @<a href="https://github.com/cjabradshaw">cjabradshaw</a> (please <a href="https://github.com/FredSaltre">contact</a> for membership).
 
 Example content:
 
