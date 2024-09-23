@@ -44,4 +44,4 @@ Example content:
 <br>
 
 [<img src="https://github.com/CIEHF/.github/blob/main/profile/CIEHF_Logo_Email_Version%20Transparent.png" alt="Centre of Excellence for Indigenous and Environmental Histories and Futures" width="350" align="left" />](http://ciehf.au)
-[<img src="https://github.com/CIEHF/.github/blob/main/profile/australian-research-council.png" alt="Australian Research Council" width="330" align="left" />](http://www.arc.gov.au)
+[<img src="https://github.com/CIEHF/.github/blob/main/profile/australian-research-council.png" alt="Australian Research Council" width="330" align="right" />](http://www.arc.gov.au)
