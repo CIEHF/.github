@@ -1,9 +1,9 @@
 ## <a href="http://www.arc.gov.au">Australian Research Council</a> <a href="http://ciehf.au">Centre of Excellence for Indigenous and Environmental Histories and Futures</a> (CIEHF)
 
-Healthy Land and Sea Country, centred in Aboriginal and Torres Strait Islander understandings and approaches and informed by cutting-edge approaches to cultural, environmental, and historical research.
+Funded by the <a href="http://www.arc.gov.au">Australian Research Council</a>, CIEHF was created to pursue better outcomes for Land and Sea Country by bringing Indigenous and Western knowledges together to understand the long-term histories and near-term futures of Australia. Our Centre is a collaboration between 29 organisations, bringing together Australia’s leading researchers and research organisations across diverse fields.
 
-The Centre will set new standards for research and management on Country across Australia. It will be reciprocal, not extractive, and will have the wellbeing of Country and community at its heart. It will recruit, empower, and inspire the next generation of Indigenous researchers as well as training non-Indigenous researchers to collaborate in culturally appropriate ways.
-Driven by respectful, authentic co-design, and drawing from diverse cultural, environmental, and historical records, the Centre will work to enhance Land and Sea Country management, reframed by Indigenous knowledges and science.
+The Centre’s research program brings together cutting-edge techniques from Indigenous knowledge, Indigenous science, archaeology, history, ecology, palaeoecology, palaeoclimatology, mathematics, high-performance computing, remote sensing, and genomics. This pursuit is underpinned by an unwavering commitment to respectful, authentic co-designed research with Indigenous partners.
+Our outcomes will support healthy Land and Sea Country management planning now and into the future, centred in Aboriginal- and Torres Strait Islander-led approaches.
 
 This is the shared Github code and data repository for members of CIEHF. Curated by @<a href="https://github.com/FredSaltre">fredsaltre</a> and @<a href="https://github.com/cjabradshaw">cjabradshaw</a> (please <a href="https://github.com/FredSaltre">contact</a> for membership).
 
