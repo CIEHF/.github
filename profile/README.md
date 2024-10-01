@@ -24,6 +24,7 @@ Example content:
 ### Scripts
 <img src="https://github.com/CIEHF/.github/blob/main/profile/scriptsLogo.png" alt="" width="75" align="right" />
 
+- <a href="https://github.com/CIEHF/Smallpox-in-Aboriginal-Australia">Smallpox-in-Aboriginal-Australia</a>: Stochastic epidemiological models to test the origin and demographic impact of smallpox on Aboriginal Australians in the 18th Century
 - <a href="https://github.com/CIEHF/AusIndigN">AusIndigN</a>: Estimating the size of the pre-colonial Indigenous population in Australia and the aftermath of European invasion
 
 ### Learning resources
